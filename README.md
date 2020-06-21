@@ -9,3 +9,4 @@ Visualized the count of positive, negative and neutral comments in a bar chart.
 Also visualized the comments as positive, negative and neutral word clouds.
 Also used Google Trans API to convert all the comments into English Language.
 
+This Project is for the Stanford CODE IN PLACE Program 2020.
