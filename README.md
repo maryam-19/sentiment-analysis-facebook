@@ -1,7 +1,10 @@
 # sentiment-analysis-facebook
 Sentiment Analysis of a Facebook Page using Python(Vader)
 
-I have analysed all the comments on the Facebook Page named MentalHealthAwarenessPakistan.
+First of all, I scrapped all the data(comments,replies & reactions) from the Facebook Page named MentalHealthAwarenessPakistan using Graph API Explorer V6.0.
+Stored all the data into a CSV file for further analysis.
+
+I have then analysed all the comments on the Facebook Page named MentalHealthAwarenessPakistan.
 I have used VADER Librabry to get the polarity scores for each comment.
 Identified the comments as positive,negative and neutral.
 
